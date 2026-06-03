@@ -334,13 +334,15 @@
   frameworks:
   - Crystal Space
   licenses:
-  - GPL2
+  - GPL3
   development: halted
   originals:
   - Interstate '76
   status: semi-playable
   type: remake
-  updated: 2022-09-07
+  comtent: open
+  repo: 'https://github.com/ignitr0n/InterstateOutlaws'
+  updated: '2026-06-03'
   url: http://web.archive.org/web/20071011202135/http://interstateoutlaws.com/
 
 - name: Intruders for Linux
